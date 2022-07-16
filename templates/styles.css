@@ -1,0 +1,16 @@
+#container
+{
+  font-family: 'helvetica neue', serif;
+  background-color: #F3EFCC;
+  width: 50%;
+  margin-left:400px;
+  margin-top: 100px;
+  padding: 50px;
+}
+
+
+#container label,input
+{
+  margin: 10px;
+  font-size: 20px;
+}
